@@ -1,6 +1,7 @@
 Build.PL
 Changes
 lib/Class/DBI/FormTools.pm
+Makefile.PL
 MANIFEST			This list of files
 META.yml
 README
@@ -19,4 +20,4 @@ t/lib/Location.pm
 t/lib/Role.pm
 t/pod-coverage.t
 t/pod.t
-TODO.txt
+TODO
